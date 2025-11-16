@@ -1,1 +1,1 @@
-### this is a demo project for automation task
+### this is a demo project for automation tasks
